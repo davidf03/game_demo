@@ -8,6 +8,7 @@ In addition to the puzzle layer, piece selection and comparison of the unsolved 
 This remains one of the most extensive and complete projects in my portfolio, despite it having never been implemented.
 (All project files generated in export from Adobe Flash)
 
+
 Visit the demo here: https://dfriesen1183.github.io/game_demo/
 Click on the pulsing white circles at the borders of the game screen to view all three of the four levels of the interface.
 ```
